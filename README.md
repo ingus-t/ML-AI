@@ -1,5 +1,13 @@
 # #60daysofudacity 
 
+## Day 15:
+* Slack App challenge - working on my app that will look up questions/answers in AMA database. Registered it on the test workspace.
+Parsed AMA transcript file into an array of questions and answers (1024 in total). Now I have to figure out how to compare new questions vs questions already asked.
+* Quickly going over (skimming through) some papers on NN architectures for question answering:
+  * Attention-over-Attention Neural Networks for Reading Comprehension, https://arxiv.org/abs/1607.04423
+  * R-NET, https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf
+  * ReasoNet, https://arxiv.org/pdf/1609.05284.pdf
+
 ## Day 14:
 * Interview for the *Interview_Club* challenge, with @Dumeer
 * Signed up for the Slack App challenge, started working on my slack app `SPAI chat bot`. Goal is to aggregate questions from AMA sessions and provide a machine learning aided search. First I need to figure how to parse the questions and answers from the transcript file.
