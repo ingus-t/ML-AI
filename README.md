@@ -1,4 +1,9 @@
 # #60daysofudacity 
+My notes are here:  https://terbets.id.lv
+
+## Day 16:
+* Intro to Pytorch, Udacity course, went over lessons 2 - 3. (https://classroom.udacity.com/courses/ud188)
+* Slack App challenge. Built a web search for the AMA dataset. Now I want to use ML to provide a better search. Current web search can be seen here: https://ingus-t.github.io/SPAI-AMA-search/  
 
 ## Day 15:
 * Slack App challenge - working on my app that will look up questions/answers in AMA database. Registered it on the test workspace.
