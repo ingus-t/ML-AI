@@ -1,6 +1,11 @@
 # #60daysofudacity 
 My notes are here:  https://terbets.id.lv
 
+## Day 17:
+* Papers club quiz #2, 86.67% score
+* Novice-AI quiz #1
+* Reading about GANs and CNNs.
+
 ## Day 16:
 * Intro to Pytorch, Udacity course, went over lessons 2 - 3. (https://classroom.udacity.com/courses/ud188)
 * Slack App challenge. Built a web search for the AMA dataset. Now I want to use ML to provide a better search. Current web search can be seen here: https://ingus-t.github.io/SPAI-AMA-search/  
