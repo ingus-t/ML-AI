@@ -1,5 +1,9 @@
-# #60daysofudacity 
-My notes are here:  https://terbets.id.lv
+# #60daysofudacity
+
+## Day 19
+* AMA with Robert Wagner from OpenMined
+* Started doing course _Intro to Data Analysis_, did 1/3 of lesson 1. Using Pandas/Numpy/Matplotlib instead of the suggested methods makes it a bit more challenging. And repetition is good :slightly_smiling_face:
+* 100 page ML book by Andriy Burkov, read sections: 1 - Introduction, 2 - Notation and definitions (scalars, vectors, derivatives, gradients etc.)
 
 ## Day 18
 * Experimenting with a GAN example from here https://github.com/chainer/chainer/tree/master/examples/dcgan
