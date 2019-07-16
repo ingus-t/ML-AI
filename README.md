@@ -1,5 +1,12 @@
 # #60daysofudacity
 
+## Day 20
+* Study group Novice-AI virtual meeting #1. Thank you @Stark for organizing, and @ayivima for the Python questions on the channel :) And everyone who attended, it was nice to meet you :)
+@Michael Sheinman @Eman @cibaca @Shudipto Trafder @Rosa Paccotacya @Agata [OR, USA] @Sayed Maheen Basheer @Olivia  @Aarthi Alagammai  @Poornima Venkatraman @SANMITRA 
+* _The Hundred Page Machine Learning Book_ by Andriy Burkov, sections: 3 - Fundamental algorithms, 4 - Anatomy of a learning algorithm. This book is really like a vocabulary for ML. Not sure who recommended this to me, but - thank you! :)
+* Work on my slack app (AMA question search), I decided to switch to a node.js web service.
+@Aisha Javed thanks for the encouragement! :)
+
 ## Day 19
 * AMA with Robert Wagner from OpenMined
 * Started doing course _Intro to Data Analysis_, did 1/3 of lesson 1. Using Pandas/Numpy/Matplotlib instead of the suggested methods makes it a bit more challenging. And repetition is good :slightly_smiling_face:
