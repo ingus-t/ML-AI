@@ -1,5 +1,11 @@
 # #60daysofudacity
 
+## Day 21
+* Book reading club, virtual meeting #3, about the paper ¨Generative adversarial nets¨ by Ian J. Goodfellow. Thanks @Dharmendra Choudhary and @Nicolas Araque for organizing! :slightly_smiling_face:
+And everyone else participating! Now we need to build some GANs :slightly_smiling_face: @Droid @Sarah Majors @Sayed Maheen Basheer  @Abhishek Tandon  @Sankalp Dayal @Nirupama Singh
+* 100 page ML book by Andriy Burkov, read section  5 - basic practice (feature engineering, one-hot encoding, binning, confusion matrix etc.)
+* Work on my Slack App project, built a node.js web service, now I need to connect it to my Slack app :slightly_smiling_face:. And first stage of this project will be complete.
+
 ## Day 20
 * Study group Novice-AI virtual meeting #1. Thank you @Stark for organizing, and @ayivima for the Python questions on the channel :) And everyone who attended, it was nice to meet you :)
 @Michael Sheinman @Eman @cibaca @Shudipto Trafder @Rosa Paccotacya @Agata [OR, USA] @Sayed Maheen Basheer @Olivia  @Aarthi Alagammai  @Poornima Venkatraman @SANMITRA 
