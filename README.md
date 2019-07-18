@@ -1,5 +1,17 @@
 # #60daysofudacity
 
+## Day 22
+* ...work on my slack app. Hosted web service on Heroku, it works with my frontend.  
+Attached screenshot of the search form. Working to make it available via slash commands :slightly_smiling_face:  
+https://github.com/ingus-t/SPAI-AMA-search - 2 parts: Search form, AMA transcript parser  
+https://github.com/ingus-t/SPAI-AMA-nodejs - web service  
+(I really want to have a working slack app tomorrow... but :blush: )
+* 100 page ML book by Andriy Burkov, read section 6: Neural networks and deep learning.
+* Planet-Earth study group - searched for images for the Smog detection dataset. The first dataset I´m creating. :slightly_smiling_face:  
+@Yemi @Alejandro Galindo @Dumeer @Arka @Stark @Droid @George Christopoulos @Sayed Maheen Basheer @Frida @Berenice @Dharmendra Choudhary @Sadmi Bouhafs @Taimur Zahid - Keep being awesome and making this community so great! :penguin_dance: :party-dinosaur:
+
+Notes are here: https://terbets.id.lv/
+
 ## Day 21
 * Book reading club, virtual meeting #3, about the paper ¨Generative adversarial nets¨ by Ian J. Goodfellow. Thanks @Dharmendra Choudhary and @Nicolas Araque for organizing! :slightly_smiling_face:
 And everyone else for participating! Now we need to build some GANs :slightly_smiling_face: @Droid @Sarah Majors @Sayed Maheen Basheer  @Abhishek Tandon  @Sankalp Dayal @Nirupama Singh
