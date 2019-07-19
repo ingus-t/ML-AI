@@ -1,5 +1,10 @@
 # #60daysofudacity
 
+## Day 23
+* 100 page ML book by Andriy Burkov, read section 7, kernel regression, multiclass classification.
+* Europeers SG, meeting #1. We introduced ourselves and talked about possible group project ideas.
+@AlexDL @PaulBruce @Martha Taylor @Ingus Terbets @Akash Antony @Helena Barmer @Alison Davey @Aleksey Orekhov.
+
 ## Day 22
 * ...work on my slack app. Hosted web service on Heroku, it works with my frontend.  
 Attached screenshot of the search form. Working to make it available via slash commands :slightly_smiling_face:  
@@ -9,8 +14,6 @@ https://github.com/ingus-t/SPAI-AMA-nodejs - web service
 * 100 page ML book by Andriy Burkov, read section 6: Neural networks and deep learning.
 * Planet-Earth study group - searched for images for the Smog detection dataset. The first dataset I´m creating. :slightly_smiling_face:  
 @Yemi @Alejandro Galindo @Dumeer @Arka @Stark @Droid @George Christopoulos @Sayed Maheen Basheer @Frida @Berenice @Dharmendra Choudhary @Sadmi Bouhafs @Taimur Zahid - Keep being awesome and making this community so great! :penguin_dance: :party-dinosaur:
-
-Notes are here: https://terbets.id.lv/
 
 ## Day 21
 * Book reading club, virtual meeting #3, about the paper ¨Generative adversarial nets¨ by Ian J. Goodfellow. Thanks @Dharmendra Choudhary and @Nicolas Araque for organizing! :slightly_smiling_face:
