@@ -1,5 +1,11 @@
 # #60daysofudacity
 
+## Day 24
+* Fast-AI lesson 1, part 1 - Image classification. (https://course.fast.ai/videos/?lesson=1)
+* Novice AI, week 2 assignment - pseudocode for 3 exercises on hackerearth.com.
+* Deepdive-NLP meeting #1. There is a Trello board with resources and project ideas set up. I suggested expanding my Slack app as a group project :slightly_smiling_face: Met even more cool people :slightly_smiling_face:  @Debankur @SusanW @Suraiya Khan @Dharmendra Choudhary @Gabriela Urquieta @susyjam @Joyce Obi  @Andy
+Notes are here: https://terbets.id.lv/
+
 ## Day 23
 * 100 page ML book by Andriy Burkov, read section 7, kernel regression, multiclass classification.
 * Europeers SG, meeting #1. We introduced ourselves and talked about possible group project ideas.
