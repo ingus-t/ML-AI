@@ -4,12 +4,11 @@
 * Fast-AI lesson 1, part 1 - Image classification. (https://course.fast.ai/videos/?lesson=1)
 * Novice AI, week 2 assignment - pseudocode for 3 exercises on hackerearth.com.
 * Deepdive-NLP meeting #1. There is a Trello board with resources and project ideas set up. I suggested expanding my Slack app as a group project :slightly_smiling_face: Met even more cool people :slightly_smiling_face:  @Debankur @SusanW @Suraiya Khan @Dharmendra Choudhary @Gabriela Urquieta @susyjam @Joyce Obi  @Andy
-Notes are here: https://terbets.id.lv/
 
 ## Day 23
 * 100 page ML book by Andriy Burkov, read section 7, kernel regression, multiclass classification.
 * Europeers SG, meeting #1. We introduced ourselves and talked about possible group project ideas.
-@AlexDL @PaulBruce @Martha Taylor @Ingus Terbets @Akash Antony @Helena Barmer @Alison Davey @Aleksey Orekhov.
+@AlexDL @PaulBruce @Martha Taylor @Akash Antony @Helena Barmer @Alison Davey @Aleksey Orekhov.
 
 ## Day 22
 * ...work on my slack app. Hosted web service on Heroku, it works with my frontend.  
@@ -43,7 +42,6 @@ And everyone else for participating! Now we need to build some GANs :slightly_sm
 * Experimenting with a GAN example from here https://github.com/chainer/chainer/tree/master/examples/dcgan
 * Completed book_club quiz #2 (PyTorch)
 * Went over my notes from lessons 2 - 4 from PyTorch course again. I've realized I should spend more time on repetition. Planning to focus more on maths/statistics in the upcoming days.
-My notes about #60daysofudacity are here:  https://terbets.id.lv
 
 ## Day 17
 * Papers club quiz #2, 86.67% score
