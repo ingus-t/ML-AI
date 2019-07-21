@@ -1,5 +1,12 @@
 # #60daysofudacity
 
+## Day 25
+* Book reading club quiz #3
+* Added more images to SmogDetection dataset: https://github.com/ingus-t/SmogDetection
+* First 20 videos of chapter 5 - Intro to PyTorch https://classroom.udacity.com/courses/ud188 (I stopped this course after lesson 4 ~ a month ago, time to finish it)
+* Stanford's CS230 - Deep Learning (Lectures 1, 2, 3, 6) http://cs230.stanford.edu/lecture/
+* Solved PyByte #6, in Novice-AI group
+
 ## Day 24
 * Fast-AI lesson 1, part 1 - Image classification. (https://course.fast.ai/videos/?lesson=1)
 * Novice AI, week 2 assignment - pseudocode for 3 exercises on hackerearth.com.
