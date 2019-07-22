@@ -1,5 +1,11 @@
 # #60daysofudacity
 
+## Day 26
+* Added more images to SmogDetection dataset https://github.com/ingus-t/SmogDetection
+* Did Novice-AI PyByte challenges #1, #3, #4, #7 (catching up with last week)
+* Compiled and posted a Notebook for Novice AI course  https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb
+* 100 page ML book by Andriy Burkov, read section 8, imbalanced datasets, combining models.
+
 ## Day 25
 * Book reading club quiz #3
 * Added more images to SmogDetection dataset: https://github.com/ingus-t/SmogDetection
