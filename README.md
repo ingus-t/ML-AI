@@ -1,5 +1,10 @@
 # #60daysofudacity
 
+## Day 27
+* Novice-AI PyByte challenge #8a, notes are here: https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb
+* Read paper for papers reading club, RAPPOR, https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42852.pdf
+* Lectures 6, 7 of Stanford's CS231n http://cs231n.stanford.edu/
+
 ## Day 26
 * Added more images to SmogDetection dataset https://github.com/ingus-t/SmogDetection
 * Did Novice-AI PyByte challenges #1, #3, #4, #7 (catching up with last week)
