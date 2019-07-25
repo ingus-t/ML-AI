@@ -2,30 +2,30 @@
 
 ## Day 28
 * Novice-AI PyByte challenge #9
-* Updated Novice-AI group notes: https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb
-* Lectures 8, 9 of CNNs for Visual recognition  http://cs231n.stanford.edu/
-* Revised PyTorch lesson 5, https://classroom.udacity.com/courses/ud188#
+* Updated Novice-AI group notes: [https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb](https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb)
+* Lectures 8, 9 of CNNs for Visual recognition  [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
+* Revised PyTorch lesson 5, [https://classroom.udacity.com/courses/ud188#](https://classroom.udacity.com/courses/ud188#)
 
 ## Day 27
-* Novice-AI PyByte challenge #8a, notes are here: https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb
-* Read paper for papers reading club, RAPPOR, https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42852.pdf
-* Lectures 6, 7 of Stanford's CS231n http://cs231n.stanford.edu/
+* Novice-AI PyByte challenge #8a, notes are here: [https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb](https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb)
+* Read paper for papers reading club, RAPPOR, [https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42852.pdf](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42852.pdf)
+* Lectures 6, 7 of Stanford's CS231n [http://cs231n.stanford.edu/](http://cs231n.stanford.edu/)
 
 ## Day 26
-* Added more images to SmogDetection dataset https://github.com/ingus-t/SmogDetection
+* Added more images to SmogDetection dataset [https://github.com/ingus-t/SmogDetection](https://github.com/ingus-t/SmogDetection)
 * Did Novice-AI PyByte challenges #1, #3, #4, #7 (catching up with last week)
-* Compiled and posted a Notebook for Novice AI course  https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb
+* Compiled and posted a Notebook for Novice AI course  [https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb](https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb)
 * 100 page ML book by Andriy Burkov, read section 8, imbalanced datasets, combining models.
 
 ## Day 25
 * Book reading club quiz #3
-* Added more images to SmogDetection dataset: https://github.com/ingus-t/SmogDetection
-* First 20 videos of chapter 5 - Intro to PyTorch https://classroom.udacity.com/courses/ud188 (I stopped this course after lesson 4 ~ a month ago, time to finish it)
-* Stanford's CS230 - Deep Learning (Lectures 1, 2, 3, 6) http://cs230.stanford.edu/lecture/
+* Added more images to SmogDetection dataset: [https://github.com/ingus-t/SmogDetection](https://github.com/ingus-t/SmogDetection)
+* First 20 videos of chapter 5 - Intro to PyTorch [https://classroom.udacity.com/courses/ud188](https://classroom.udacity.com/courses/ud188) (I stopped this course after lesson 4 ~ a month ago, time to finish it)
+* Stanford's CS230 - Deep Learning (Lectures 1, 2, 3, 6) [http://cs230.stanford.edu/lecture/](http://cs230.stanford.edu/lecture/)
 * Solved PyByte #6, in Novice-AI group
 
 ## Day 24
-* Fast-AI lesson 1, part 1 - Image classification. (https://course.fast.ai/videos/?lesson=1)
+* Fast-AI lesson 1, part 1 - Image classification. [https://course.fast.ai/videos/?lesson=1](https://course.fast.ai/videos/?lesson=1)
 * Novice AI, week 2 assignment - pseudocode for 3 exercises on hackerearth.com.
 * Deepdive-NLP meeting #1. There is a Trello board with resources and project ideas set up. I suggested expanding my Slack app as a group project :slightly_smiling_face: Met even more cool people :slightly_smiling_face:  @Debankur @SusanW @Suraiya Khan @Dharmendra Choudhary @Gabriela Urquieta @susyjam @Joyce Obi  @Andy
 
@@ -37,8 +37,8 @@
 ## Day 22
 * ...work on my slack app. Hosted web service on Heroku, it works with my frontend.  
 Attached screenshot of the search form. Working to make it available via slash commands :slightly_smiling_face:  
-https://github.com/ingus-t/SPAI-AMA-search - 2 parts: Search form, AMA transcript parser  
-https://github.com/ingus-t/SPAI-AMA-nodejs - web service  
+[https://github.com/ingus-t/SPAI-AMA-search](https://github.com/ingus-t/SPAI-AMA-search) - 2 parts: Search form, AMA transcript parser  
+[https://github.com/ingus-t/SPAI-AMA-nodejs](https://github.com/ingus-t/SPAI-AMA-nodejs) - web service  
 (I really want to have a working slack app tomorrow... but :blush: )
 * 100 page ML book by Andriy Burkov, read section 6: Neural networks and deep learning.
 * Planet-Earth study group - searched for images for the Smog detection dataset. The first dataset I´m creating. :slightly_smiling_face:  
@@ -63,7 +63,7 @@ And everyone else for participating! Now we need to build some GANs :slightly_sm
 * 100 page ML book by Andriy Burkov, read sections: 1 - Introduction, 2 - Notation and definitions (scalars, vectors, derivatives, gradients etc.)
 
 ## Day 18
-* Experimenting with a GAN example from here https://github.com/chainer/chainer/tree/master/examples/dcgan
+* Experimenting with a GAN example from here [https://github.com/chainer/chainer/tree/master/examples/dcgan](https://github.com/chainer/chainer/tree/master/examples/dcgan)
 * Completed book_club quiz #2 (PyTorch)
 * Went over my notes from lessons 2 - 4 from PyTorch course again. I've realized I should spend more time on repetition. Planning to focus more on maths/statistics in the upcoming days.
 
@@ -73,16 +73,16 @@ And everyone else for participating! Now we need to build some GANs :slightly_sm
 * Reading about GANs and CNNs.
 
 ## Day 16
-* Intro to Pytorch, Udacity course, went over lessons 2 - 3. (https://classroom.udacity.com/courses/ud188)
-* Slack App challenge. Built a web search for the AMA dataset. Now I want to use ML to provide a better search. Current web search can be seen here: https://ingus-t.github.io/SPAI-AMA-search/  
+* Intro to Pytorch, Udacity course, went over lessons 2 - 3. [https://classroom.udacity.com/courses/ud188](https://classroom.udacity.com/courses/ud188)
+* Slack App challenge. Built a web search for the AMA dataset. Now I want to use ML to provide a better search. Current web search can be seen here: [https://ingus-t.github.io/SPAI-AMA-search/](https://ingus-t.github.io/SPAI-AMA-search/)
 
 ## Day 15
 * Slack App challenge - working on my app that will look up questions/answers in AMA database. Registered it on the test workspace.
 Parsed AMA transcript file into an array of questions and answers (1024 in total). Now I have to figure out how to compare new questions vs questions already asked.
 * Quickly going over (skimming through) some papers on NN architectures for question answering:
-  * Attention-over-Attention Neural Networks for Reading Comprehension, https://arxiv.org/abs/1607.04423
-  * R-NET, https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf
-  * ReasoNet, https://arxiv.org/pdf/1609.05284.pdf
+  * Attention-over-Attention Neural Networks for Reading Comprehension, [https://arxiv.org/abs/1607.04423](https://arxiv.org/abs/1607.04423)
+  * R-NET, [https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
+  * ReasoNet, [https://arxiv.org/pdf/1609.05284.pdf](https://arxiv.org/pdf/1609.05284.pdf)
 
 ## Day 14
 * Interview for the *Interview_Club* challenge, with @Dumeer
