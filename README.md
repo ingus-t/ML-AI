@@ -1,5 +1,11 @@
 # #60daysofudacity
 
+## Day 28
+* Novice-AI PyByte challenge #9
+* Updated Novice-AI group notes: https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb
+* Lectures 8, 9 of CNNs for Visual recognition  http://cs231n.stanford.edu/
+* Revised PyTorch lesson 5, https://classroom.udacity.com/courses/ud188#
+
 ## Day 27
 * Novice-AI PyByte challenge #8a, notes are here: https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb
 * Read paper for papers reading club, RAPPOR, https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/42852.pdf
