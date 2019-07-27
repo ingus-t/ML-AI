@@ -1,5 +1,25 @@
 # #60daysofudacity
 
+## Day 31
+* Europeers group meeting #2, @AlexDL @Helena Barmer @Susanne Brockmann @PaulBruce @Mariia Denysenko @Akash Antony @Evi @Joanna Gon @PaulBruce 
+Thank you, everyone, it was a great exchange of experiences and insights :)
+Some of us decided on a group project: Federated learning, with mobile clients, and a server. Our goal is to have a fully functioning real-world FL example :)
+* NLP group meeting #3, @Joyce, @Debankur, @Ashish Shrivastava @Gabriela Urquieta, @Andy @Droid @Aisha Khatun @Aniket Mitra 
+Talked about fast.ai course and possible project ideas.
+* added ~100 images to the [https://github.com/ingus-t/SmogDetection_ dataset](https://github.com/ingus-t/SmogDetection) dataset (280 in total). More work on my very humble model :)
+
+## Day 30
+* Novice-AI PyByte challenge #10, updated group notes: [https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb](https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb)
+* added more images to the [https://github.com/ingus-t/SmogDetection](https://github.com/ingus-t/SmogDetection) dataset. And started building a model :D
+* 100 page ML book by Andriy Burkov, read section 9, unsupervised learning.
+
+## Day 29
+* Novice-AI DLDANCE exercise #1, writing an image flip function from zero (exercise for better understanding of data augmentation in ML)
+* Updated Novice-AI group notes: [https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb](https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb)
+* Jobs channel quiz #2, 90% with my first try
+* added more images to the [https://github.com/ingus-t/SmogDetection](https://github.com/ingus-t/SmogDetection) dataset.
+* fast.ai - lesson 2: Data cleaning and production; SGD from scratch [https://course.fast.ai/videos/?lesson=2](https://course.fast.ai/videos/?lesson=2)
+
 ## Day 28
 * Novice-AI PyByte challenge #9
 * Updated Novice-AI group notes: [https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb](https://github.com/ingus-t/SPAI/blob/master/Notes/Novice_AI.ipynb)
