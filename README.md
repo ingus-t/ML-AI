@@ -1,5 +1,19 @@
 # #60daysofudacity
 
+## Day 34
+* Read paper, Scalable private learning with PATE https://arxiv.org/pdf/1802.08908.pdf
+* Read paper, “Why Should I Trust You?” https://arxiv.org/pdf/1602.04938.pdf
+* Worked on my Slack app. Deadline is in 1 week.
+
+## Day 33
+* Worked on my Smog Detection model. Added/removed images to the combined dataset: https://github.com/ingus-t/SmogDetectionCombined
+* Worked on my Slack app. Deadline is in 1 week.
+
+## Day 32
+* added ~130 images to the https://github.com/ingus-t/SmogDetection dataset (400 in total).
+* More work on my Smog Detection model
+* Combined photos from 9 repositories, removed duplicates. https://github.com/ingus-t/SmogDetectionCombined
+
 ## Day 31
 * Europeers group meeting #2, @AlexDL @Helena Barmer @Susanne Brockmann @PaulBruce @Mariia Denysenko @Akash Antony @Evi @Joanna Gon @PaulBruce 
 Thank you, everyone, it was a great exchange of experiences and insights :)
