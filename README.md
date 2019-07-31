@@ -1,18 +1,25 @@
 # #60daysofudacity
 
+## Day 35
+I´m sick so this was a slow day for my studying.
+* Attended a #sg_pytorch-robotics webinar Embedded systems by @Madalin Mamuleanu, moderated by@Helena Barmer, attended by @Bhadresh Savani @Ahmed MAGDY EISSA @Oudarjya Sen Sarma @Bearbear @Shashi Gharti @Jess  @cibaca @Sushil Ghimire @Suparna S Nair @Stark @Sourav @Dmytro Martyniuk @Temitope Oladokun @Sarah Majors @erinSnPAI@Labiba @Vipul Aggarwal @Mateusz @susyjam @Aren Stark @Aisha Javed @Dammy@Shivam Raisharma
+I haven't interacted with some of you, but you're all my classmates, so - keep going, the third month is about to start! :ddance: :slightly_smiling_face:
+* 100 page ML book by Andriy Burkov, read section 10 (metric learning, learning to rank, learning to recommend)
+* More work on my Slack App, added help commands to make it easier for users.
+
 ## Day 34
-* Read paper, Scalable private learning with PATE https://arxiv.org/pdf/1802.08908.pdf
-* Read paper, “Why Should I Trust You?” https://arxiv.org/pdf/1602.04938.pdf
+* Read paper, Scalable private learning with PATE [https://arxiv.org/pdf/1802.08908.pdf](https://arxiv.org/pdf/1802.08908.pdf)
+* Read paper, “Why Should I Trust You?” [https://arxiv.org/pdf/1602.04938.pdf](https://arxiv.org/pdf/1602.04938.pdf)
 * Worked on my Slack app. Deadline is in 1 week.
 
 ## Day 33
-* Worked on my Smog Detection model. Added/removed images to the combined dataset: https://github.com/ingus-t/SmogDetectionCombined
+* Worked on my Smog Detection model. Added/removed images to the combined dataset: [https://github.com/ingus-t/SmogDetectionCombined](https://github.com/ingus-t/SmogDetectionCombined)
 * Worked on my Slack app. Deadline is in 1 week.
 
 ## Day 32
-* added ~130 images to the https://github.com/ingus-t/SmogDetection dataset (400 in total).
+* added ~130 images to the [https://github.com/ingus-t/SmogDetection](https://github.com/ingus-t/SmogDetection) dataset (400 in total).
 * More work on my Smog Detection model
-* Combined photos from 9 repositories, removed duplicates. https://github.com/ingus-t/SmogDetectionCombined
+* Combined photos from 9 repositories, removed duplicates. [https://github.com/ingus-t/SmogDetectionCombined](https://github.com/ingus-t/SmogDetectionCombined)
 
 ## Day 31
 * Europeers group meeting #2, @AlexDL @Helena Barmer @Susanne Brockmann @PaulBruce @Mariia Denysenko @Akash Antony @Evi @Joanna Gon @PaulBruce 
