@@ -1,5 +1,10 @@
 # #60daysofudacity
 
+## Day 36
+Still sick, but feeling better already, I read a bit :green_book: :slightly_smiling_face:
+* Finished reading the 100 page ML book by Andriy Burkov
+* Started reading Deep learning with Python, sections 1 and 2
+
 ## Day 35
 I´m sick so this was a slow day for my studying.
 * Attended a #sg_pytorch-robotics webinar Embedded systems by @Madalin Mamuleanu, moderated by@Helena Barmer, attended by @Bhadresh Savani @Ahmed MAGDY EISSA @Oudarjya Sen Sarma @Bearbear @Shashi Gharti @Jess  @cibaca @Sushil Ghimire @Suparna S Nair @Stark @Sourav @Dmytro Martyniuk @Temitope Oladokun @Sarah Majors @erinSnPAI@Labiba @Vipul Aggarwal @Mateusz @susyjam @Aren Stark @Aisha Javed @Dammy@Shivam Raisharma
