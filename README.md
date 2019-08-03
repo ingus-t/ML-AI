@@ -1,5 +1,10 @@
 # #60daysofudacity
 
+## Day 37
+* Reading *Deep learning with Python*, sections 3 and 4
+* More work on my Slack App. Decided to name it AMAdillo, and have a cute armadillo as logo :D
+* fast.ai - lesson 3, Multi-Label, segmentation
+
 ## Day 36
 Still sick, but feeling better already, I read a bit :green_book: :slightly_smiling_face:
 * Finished reading the 100 page ML book by Andriy Burkov
