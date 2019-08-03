@@ -1,5 +1,10 @@
 # #60daysofudacity
 
+## Day 38
+* #PlanetEarth meeting #1. We agreed on dataset requirements, and how to proceed with the SmogDetection project. Dataset with close to ~3k images will be released tomorrow :ddance:
+Keep going! :slightly_smiling_face: @Shudipto Trafder @Akash Antony @Agata [OR, USA] @Sayed Maheen Basheer @Pooja Vinod @Viper @Berenice @sourav kumar @Alexander Villasoto @Hung
+* Work on my Slack App. I still have one very weird/stupid bug to fix, which probably has a very simple solution :slightly_smiling_face:
+
 ## Day 37
 * Reading *Deep learning with Python*, sections 3 and 4
 * More work on my Slack App. Decided to name it AMAdillo, and have a cute armadillo as logo :D
