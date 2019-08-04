@@ -1,5 +1,14 @@
 # #60daysofudacity
 
+## Day 39
+* Mock interview in #jobs with @Sajjad Manal. Thank you! :slightly_smiling_face:
+* Committed my app AMAdillo to the Slack App challenge. 1 project done, a few more to go :slightly_smiling_face:
+* Europeers - meeting #3. Discussed some project ideas.
+@enrico piretta @PaulBruce @SusanW @Joanna @Samuela Anastasi @Agata [OR, USA] @Md. Mahedi Hasan Riday @Tumi @Oudarjya Sen Sarma
+* Novice AI - meeting #2. Decided to work on Parkinsons recognition model. Found an interesting dataset for it, with data in 3d models, not images :slightly_smiling_face:
+@Seeratpal K. Jaura @Stark @Hung @Archit @Oudarjya Sen Sarma @Labiba @Agata [OR, USA] @cibaca @Apoorva Patil @Alexander Villasoto @Shudipto Trafder
+* Novice AI - quiz #2 (great quiz, not easy at all, I´ve got a lot to learn about CNNs :slightly_smiling_face: )
+
 ## Day 38
 * #PlanetEarth meeting #1. We agreed on dataset requirements, and how to proceed with the SmogDetection project. Dataset with close to ~3k images will be released tomorrow :ddance:
 Keep going! :slightly_smiling_face: @Shudipto Trafder @Akash Antony @Agata [OR, USA] @Sayed Maheen Basheer @Pooja Vinod @Viper @Berenice @sourav kumar @Alexander Villasoto @Hung
