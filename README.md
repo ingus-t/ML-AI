@@ -1,5 +1,10 @@
 # #60daysofudacity
 
+## Day 40
+* I studied how to convert a PyTorch model to ONNX, so I could embed it in an Android app. [https://github.com/onnx/tutorials/blob/master/tutorials/PytorchCaffe2MobileSqueezeNet.ipynb](https://github.com/onnx/tutorials/blob/master/tutorials/PytorchCaffe2MobileSqueezeNet.ipynb)
+* Read a paper, Predicting Parkinson’s Disease using Latent Information extracted from Deep Neural Networks. It´s really interesting and really over my head :grinning:.  [https://arxiv.org/pdf/1901.07822.pdf](https://arxiv.org/pdf/1901.07822.pdf)
+* Looking for image datasets related to Parkinson's detection. Found some in specific formats, like .nii and .dcm
+
 ## Day 39
 * Mock interview in #jobs with @Sajjad Manal. Thank you! :slightly_smiling_face:
 * Committed my app AMAdillo to the Slack App challenge. 1 project done, a few more to go :slightly_smiling_face:
