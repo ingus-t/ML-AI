@@ -1,5 +1,12 @@
 # #60daysofudacity
 
+## Day 42
+* PyByte exercises 11 and 12 on Novice-AI channel
+* More research about ML models and federated learning clients in mobile apps
+https://github.com/JDAI-CV/DNNLibrary
+https://michhar.github.io/convert-pytorch-onnx/
+https://terbets.id.lv/
+
 ## Day 41
 * Work on my Smog Detection model
 * Converting a PyTorch number recognition NN to ONNX format
