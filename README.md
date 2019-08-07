@@ -1,5 +1,9 @@
 # #60daysofudacity
 
+## Day 41
+* Work on my Smog Detection model
+* Converting a PyTorch number recognition NN to ONNX format
+
 ## Day 40
 * I studied how to convert a PyTorch model to ONNX, so I could embed it in an Android app. [https://github.com/onnx/tutorials/blob/master/tutorials/PytorchCaffe2MobileSqueezeNet.ipynb](https://github.com/onnx/tutorials/blob/master/tutorials/PytorchCaffe2MobileSqueezeNet.ipynb)
 * Read a paper, Predicting Parkinson’s Disease using Latent Information extracted from Deep Neural Networks. It´s really interesting and really over my head :grinning:.  [https://arxiv.org/pdf/1901.07822.pdf](https://arxiv.org/pdf/1901.07822.pdf)
