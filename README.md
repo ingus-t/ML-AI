@@ -5,26 +5,25 @@ I'm currently participating in #60daysofudacity challenge, and keeping a log her
 # #60daysofudacity
 
 ## Day 44
-• Novice-AI meeting #4, with
+* Novice-AI meeting #4, with
 @ayivima @Hung @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar
 Keep going! :slightly_smiling_face:
-• Chest X-rays dataset analysis, wrote a script to sample the data.
-• Work on Smog Detection model
-https://terbets.id.lv/
+* Chest X-rays dataset analysis, wrote a script to sample the data.
+* Work on Smog Detection model
 
 ## Day 43
 * Novice-AI meeting #3, we chose a chest X-ray dataset to work on. The longest meeting I´ve had this year :slightly_smiling_face:
 @Hung @ayivima @Alexander Villasoto @Aarthi Alagammai @Archit
 * Preparing the X-rays dataset. It is 45 GB large, has 112000 images and 15 classes.
-* Read a paper ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases https://arxiv.org/abs/1705.02315
+* Read a paper ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases [https://arxiv.org/abs/1705.02315](https://arxiv.org/abs/1705.02315)
 * Work on Smog Detection model
-* Reading more about Android Neural Network API (NNAPI) https://developer.android.com/ndk/guides/neuralnetworks
+* Reading more about Android Neural Network API (NNAPI) [https://developer.android.com/ndk/guides/neuralnetworks](https://developer.android.com/ndk/guides/neuralnetworks)
 
 ## Day 42
 * PyByte exercises 11 and 12 on Novice-AI channel
 * More research about ML models and federated learning clients in mobile apps
-https://github.com/JDAI-CV/DNNLibrary
-https://michhar.github.io/convert-pytorch-onnx/
+[https://github.com/JDAI-CV/DNNLibrary](https://github.com/JDAI-CV/DNNLibrary)
+[https://michhar.github.io/convert-pytorch-onnx/](https://michhar.github.io/convert-pytorch-onnx/)
 
 ## Day 41
 * Work on my Smog Detection model
