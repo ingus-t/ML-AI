@@ -1,3 +1,11 @@
+# Ingus Terbets
+
+My Resume: [My resume](https://terbets.id.lv/docs/resume.pdf)
+Recommendation: [Recommendation](https://terbets.id.lv/docs/recommendation.pdf) 
+
+
+I'm currently participating in #60daysofudacity challenge, and keeping a log here.
+
 # #60daysofudacity
 
 ## Day 43
