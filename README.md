@@ -4,6 +4,14 @@ I'm currently participating in #60daysofudacity challenge, and keeping a log her
 
 # #60daysofudacity
 
+## Day 44
+• Novice-AI meeting #4, with
+@ayivima @Hung @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar
+Keep going! :slightly_smiling_face:
+• Chest X-rays dataset analysis, wrote a script to sample the data.
+• Work on Smog Detection model
+https://terbets.id.lv/
+
 ## Day 43
 * Novice-AI meeting #3, we chose a chest X-ray dataset to work on. The longest meeting I´ve had this year :slightly_smiling_face:
 @Hung @ayivima @Alexander Villasoto @Aarthi Alagammai @Archit
