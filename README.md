@@ -1,8 +1,5 @@
 # Ingus Terbets
 
-[My resume](https://terbets.id.lv/docs/resume.pdf)  
-[Recommendation](https://terbets.id.lv/docs/recommendation.pdf)  
-
 I'm currently participating in #60daysofudacity challenge, and keeping a log here.
 
 # #60daysofudacity
