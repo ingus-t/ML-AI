@@ -4,6 +4,13 @@ I'm currently participating in #60daysofudacity challenge, and keeping a log her
 
 # #60daysofudacity
 
+## Day 45
+* NLP group meeting #4
+Keep going! :slightly_smiling_face: @SusanW @Dharmendra Choudhary @Aisha Khatun @Droid @bhavz @Yasir Abdur Rohman @Sushil Ghimire
+* Used simple topic modeling on a small Q&A dataset, my first attempt at NLP: [https://github.com/ingus-t/SPAI/blob/master/Notes/topic_modelling.ipynb](https://github.com/ingus-t/SPAI/blob/master/Notes/topic_modelling.ipynb)
+* Virtual Meetup - AI Cyborgs & Neuralink, hosted by @Helena Barmer, @Jess, @Anju Mercian. Extremely interesting, but it did not alleviate any of my concerns about the future. Only made it worse :thinking_face:
+* X-ray dataset exploration: [https://www.kaggle.com/nih-chest-xrays/](https://www.kaggle.com/nih-chest-xrays/)
+
 ## Day 44
 * Novice-AI meeting #4, with
 @ayivima @Hung @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar
