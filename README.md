@@ -4,13 +4,19 @@ I'm currently participating in #60daysofudacity challenge, and keeping a log her
 
 # #60daysofudacity
 
+## Day 47
+* Novice-AI meeting #5, Conclusion of phase 1: Data acquisition and exploration. We discussed the criteria for our own mini dataset, and how to proceed.
+Keep going! :ddance::dddance: @ayivima @Hung @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar @George Christopoulos @Stark @Marwa @Oudarjya Sen Sarma
+* Created my first dataset on Kaggle, (4800 downsized images of the main Xrays dataset): [https://www.kaggle.com/ingusterbets/xrays-mini-4800](https://www.kaggle.com/ingusterbets/xrays-mini-4800)
+* Implementing Abstract Summarization based on this tutorial: [https://towardsdatascience.com/text-summarization-with-amazon-reviews-41801c2210b](https://towardsdatascience.com/text-summarization-with-amazon-reviews-41801c2210b)
+* And a screenshot from my SmogDetection model. It is quite broken :upside_down_face:    
+
 ## Day 46
 * Europeers meeting #4
 @Agata [OR, USA] @Samuela Anastasi @PaulBruce @Susanne Brockmann @Joanna Gon @Evi 
 To work on another project, or not? That's the question :slightly_smiling_face:
 * Published a Smoke-Detection kernel on Kaggle (private, visible only to the project team because dataset might have copyright issues)
 * Even more X-ray dataset exploration and discussion: https://www.kaggle.com/nih-chest-xrays/ 
-https://terbets.id.lv/
 
 ## Day 45
 * NLP group meeting #4
