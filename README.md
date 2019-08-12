@@ -4,6 +4,14 @@ I'm currently participating in #60daysofudacity challenge, and keeping a log her
 
 # #60daysofudacity
 
+## Day 46
+* Europeers meeting #4
+@Agata [OR, USA] @Samuela Anastasi @PaulBruce @Susanne Brockmann @Joanna Gon @Evi 
+To work on another project, or not? That's the question :slightly_smiling_face:
+* Published a Smoke-Detection kernel on Kaggle (private, visible only to the project team because dataset might have copyright issues)
+* Even more X-ray dataset exploration and discussion: https://www.kaggle.com/nih-chest-xrays/ 
+https://terbets.id.lv/
+
 ## Day 45
 * NLP group meeting #4
 Keep going! :slightly_smiling_face: @SusanW @Dharmendra Choudhary @Aisha Khatun @Droid @bhavz @Yasir Abdur Rohman @Sushil Ghimire
