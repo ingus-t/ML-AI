@@ -4,6 +4,15 @@ I'm currently participating in #60daysofudacity challenge, and keeping a log her
 
 # #60daysofudacity
 
+## Day 48
+* Novice-AI meeting #6
+Very challenging dataset, but we keep moving forward :slightly_smiling_face:
+@Stark, @George Christopoulos, @Alexander Villasoto, @Olivia, @Hung, @Marwa, @Shudipto Trafder, @Aarthi Alagammai, @Kapil Chandorikar, @Archit, @cibaca, @Oudarjya Sen Sarma, @Pooja Vinod
+* Read about Densenet [https://arxiv.org/pdf/1608.06993](https://arxiv.org/pdf/1608.06993)
+* Researched new activation function - mila: [https://github.com/digantamisra98/Mila](https://github.com/digantamisra98/Mila)
+* Combining X-rays dataset exploration into a single document: [https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu](https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu)
+* Implementing Abstract Summarization based on this tutorial, trying to convert logic from TF to PyTorch  [https://towardsdatascience.com/text-summarization-with-amazon-reviews-41801c2210b](https://towardsdatascience.com/text-summarization-with-amazon-reviews-41801c2210b)
+
 ## Day 47
 * Novice-AI meeting #5, Conclusion of phase 1: Data acquisition and exploration. We discussed the criteria for our own mini dataset, and how to proceed.
 Keep going! :ddance::dddance: @ayivima @Hung @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar @George Christopoulos @Stark @Marwa @Oudarjya Sen Sarma
