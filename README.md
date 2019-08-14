@@ -4,6 +4,12 @@ I'm currently participating in #60daysofudacity challenge, and keeping a log her
 
 # #60daysofudacity
 
+## Day 49
+* Quiz for papers reading club - Why should I trust you? 78% score
+* In progress - combining X-rays dataset exploration into a single document: [https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu](https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu)
+* In progress - abstract summarization on Amazon food review dataset, done with inspecting/preparing data, and topic modeling.
+* forked SmogDetection kernel, experimenting to increase precision.) 
+
 ## Day 48
 * Novice-AI meeting #6
 Very challenging dataset, but we keep moving forward :slightly_smiling_face:
