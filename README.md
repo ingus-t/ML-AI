@@ -4,6 +4,24 @@ I'm currently participating in #60daysofudacity challenge, and keeping a log her
 
 # #60daysofudacity
 
+## 52
+* Meetup *AI in space*. Another interesting discussion :)
+* X-rays dataset exploration, added new graphs [https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu](https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu)
+* Reading about PySyft in Android
+
+## 51
+* Novice-AI meeting #7, we discussed deployment options, getting closer to the finish line :)
+* Reading a paper *CheXNet*, checking the implementation by John Zech
+[https://arxiv.org/pdf/1711.05225.pdf](https://arxiv.org/pdf/1711.05225.pdf)
+[https://github.com/jrzech/reproduce-chexnet](https://github.com/jrzech/reproduce-chexnet)
+* Created new X-rays dataset versions for the group project, v4.1 and v4.2
+* X-rays dataset exploration, added new graphs [https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu](https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu)
+
+## 50
+* In progress - combining X-rays dataset exploration into a single document: [https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu](https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu)
+* Discussion about X-rays model with team members
+* More work on SmogDetection model
+
 ## Day 49
 * Quiz for papers reading club - Why should I trust you? 78% score
 * In progress - combining X-rays dataset exploration into a single document: [https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu](https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu)
@@ -13,7 +31,6 @@ I'm currently participating in #60daysofudacity challenge, and keeping a log her
 ## Day 48
 * Novice-AI meeting #6
 Very challenging dataset, but we keep moving forward :slightly_smiling_face:
-@Stark, @George Christopoulos, @Alexander Villasoto, @Olivia, @Hung, @Marwa, @Shudipto Trafder, @Aarthi Alagammai, @Kapil Chandorikar, @Archit, @cibaca, @Oudarjya Sen Sarma, @Pooja Vinod
 * Read about Densenet [https://arxiv.org/pdf/1608.06993](https://arxiv.org/pdf/1608.06993)
 * Researched new activation function - mila: [https://github.com/digantamisra98/Mila](https://github.com/digantamisra98/Mila)
 * Combining X-rays dataset exploration into a single document: [https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu](https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu)
@@ -21,35 +38,30 @@ Very challenging dataset, but we keep moving forward :slightly_smiling_face:
 
 ## Day 47
 * Novice-AI meeting #5, Conclusion of phase 1: Data acquisition and exploration. We discussed the criteria for our own mini dataset, and how to proceed.
-Keep going! :ddance::dddance: @ayivima @Hung @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar @George Christopoulos @Stark @Marwa @Oudarjya Sen Sarma
 * Created my first dataset on Kaggle, (4800 downsized images of the main Xrays dataset): [https://www.kaggle.com/ingusterbets/xrays-mini-4800](https://www.kaggle.com/ingusterbets/xrays-mini-4800)
 * Implementing Abstract Summarization based on this tutorial: [https://towardsdatascience.com/text-summarization-with-amazon-reviews-41801c2210b](https://towardsdatascience.com/text-summarization-with-amazon-reviews-41801c2210b)
 * And a screenshot from my SmogDetection model. It is quite broken :upside_down_face:    
 
 ## Day 46
 * Europeers meeting #4
-@Agata [OR, USA] @Samuela Anastasi @PaulBruce @Susanne Brockmann @Joanna Gon @Evi 
 To work on another project, or not? That's the question :slightly_smiling_face:
 * Published a Smoke-Detection kernel on Kaggle (private, visible only to the project team because dataset might have copyright issues)
 * Even more X-ray dataset exploration and discussion: https://www.kaggle.com/nih-chest-xrays/ 
 
 ## Day 45
 * NLP group meeting #4
-Keep going! :slightly_smiling_face: @SusanW @Dharmendra Choudhary @Aisha Khatun @Droid @bhavz @Yasir Abdur Rohman @Sushil Ghimire
+Keep going! :slightly_smiling_face: 
 * Used simple topic modeling on a small Q&A dataset, my first attempt at NLP: [https://github.com/ingus-t/SPAI/blob/master/Notes/topic_modelling.ipynb](https://github.com/ingus-t/SPAI/blob/master/Notes/topic_modelling.ipynb)
-* Virtual Meetup - AI Cyborgs & Neuralink, hosted by @Helena Barmer, @Jess, @Anju Mercian. Extremely interesting, but it did not alleviate any of my concerns about the future. Only made it worse :thinking_face:
+* Virtual Meetup - AI Cyborgs & Neuralink. Extremely interesting, but it did not alleviate any of my concerns about the future. Only made it worse :thinking_face:
 * X-ray dataset exploration: [https://www.kaggle.com/nih-chest-xrays/](https://www.kaggle.com/nih-chest-xrays/)
 
 ## Day 44
-* Novice-AI meeting #4, with
-@ayivima @Hung @Shudipto Trafder @Alexander Villasoto @Aarthi Alagammai @Olivia @Kapil Chandorikar
-Keep going! :slightly_smiling_face:
+* Novice-AI meeting #4
 * Chest X-rays dataset analysis, wrote a script to sample the data.
 * Work on Smog Detection model
 
 ## Day 43
 * Novice-AI meeting #3, we chose a chest X-ray dataset to work on. The longest meeting I´ve had this year :slightly_smiling_face:
-@Hung @ayivima @Alexander Villasoto @Aarthi Alagammai @Archit
 * Preparing the X-rays dataset. It is 45 GB large, has 112000 images and 15 classes.
 * Read a paper ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases [https://arxiv.org/abs/1705.02315](https://arxiv.org/abs/1705.02315)
 * Work on Smog Detection model
@@ -71,17 +83,15 @@ Keep going! :slightly_smiling_face:
 * Looking for image datasets related to Parkinson's detection. Found some in specific formats, like .nii and .dcm
 
 ## Day 39
-* Mock interview in #jobs with @Sajjad Manal. Thank you! :slightly_smiling_face:
+* Mock interview in #jobs . Thank you! :slightly_smiling_face:
 * Committed my app AMAdillo to the Slack App challenge. 1 project done, a few more to go :slightly_smiling_face:
 * Europeers - meeting #3. Discussed some project ideas.
-@enrico piretta @PaulBruce @SusanW @Joanna @Samuela Anastasi @Agata [OR, USA] @Md. Mahedi Hasan Riday @Tumi @Oudarjya Sen Sarma
 * Novice AI - meeting #2. Decided to work on Parkinsons recognition model. Found an interesting dataset for it, with data in 3d models, not images :slightly_smiling_face:
-@Seeratpal K. Jaura @Stark @Hung @Archit @Oudarjya Sen Sarma @Labiba @Agata [OR, USA] @cibaca @Apoorva Patil @Alexander Villasoto @Shudipto Trafder
 * Novice AI - quiz #2 (great quiz, not easy at all, I´ve got a lot to learn about CNNs :slightly_smiling_face: )
 
 ## Day 38
 * #PlanetEarth meeting #1. We agreed on dataset requirements, and how to proceed with the SmogDetection project. Dataset with close to ~3k images will be released tomorrow :ddance:
-Keep going! :slightly_smiling_face: @Shudipto Trafder @Akash Antony @Agata [OR, USA] @Sayed Maheen Basheer @Pooja Vinod @Viper @Berenice @sourav kumar @Alexander Villasoto @Hung
+Keep going! :slightly_smiling_face: 
 * Work on my Slack App. I still have one very weird/stupid bug to fix, which probably has a very simple solution :slightly_smiling_face:
 
 ## Day 37
@@ -96,7 +106,7 @@ Still sick, but feeling better already, I read a bit :green_book: :slightly_smil
 
 ## Day 35
 I´m sick so this was a slow day for my studying.
-* Attended a #sg_pytorch-robotics webinar Embedded systems by @Madalin Mamuleanu, moderated by@Helena Barmer, attended by @Bhadresh Savani @Ahmed MAGDY EISSA @Oudarjya Sen Sarma @Bearbear @Shashi Gharti @Jess  @cibaca @Sushil Ghimire @Suparna S Nair @Stark @Sourav @Dmytro Martyniuk @Temitope Oladokun @Sarah Majors @erinSnPAI@Labiba @Vipul Aggarwal @Mateusz @susyjam @Aren Stark @Aisha Javed @Dammy@Shivam Raisharma
+* Attended a #sg_pytorch-robotics webinar Embedded systems
 I haven't interacted with some of you, but you're all my classmates, so - keep going, the third month is about to start! :ddance: :slightly_smiling_face:
 * 100 page ML book by Andriy Burkov, read section 10 (metric learning, learning to rank, learning to recommend)
 * More work on my Slack App, added help commands to make it easier for users.
@@ -116,10 +126,10 @@ I haven't interacted with some of you, but you're all my classmates, so - keep g
 * Combined photos from 9 repositories, removed duplicates. [https://github.com/ingus-t/SmogDetectionCombined](https://github.com/ingus-t/SmogDetectionCombined)
 
 ## Day 31
-* Europeers group meeting #2, @AlexDL @Helena Barmer @Susanne Brockmann @PaulBruce @Mariia Denysenko @Akash Antony @Evi @Joanna Gon @PaulBruce 
+* Europeers group meeting #2
 Thank you, everyone, it was a great exchange of experiences and insights :)
 Some of us decided on a group project: Federated learning, with mobile clients, and a server. Our goal is to have a fully functioning real-world FL example :)
-* NLP group meeting #3, @Joyce, @Debankur, @Ashish Shrivastava @Gabriela Urquieta, @Andy @Droid @Aisha Khatun @Aniket Mitra 
+* NLP group meeting #3
 Talked about fast.ai course and possible project ideas.
 * added ~100 images to the [https://github.com/ingus-t/SmogDetection_ dataset](https://github.com/ingus-t/SmogDetection) dataset (280 in total). More work on my very humble model :)
 
@@ -162,12 +172,11 @@ Talked about fast.ai course and possible project ideas.
 ## Day 24
 * Fast-AI lesson 1, part 1 - Image classification. [https://course.fast.ai/videos/?lesson=1](https://course.fast.ai/videos/?lesson=1)
 * Novice AI, week 2 assignment - pseudocode for 3 exercises on hackerearth.com.
-* Deepdive-NLP meeting #1. There is a Trello board with resources and project ideas set up. I suggested expanding my Slack app as a group project :slightly_smiling_face: Met even more cool people :slightly_smiling_face:  @Debankur @SusanW @Suraiya Khan @Dharmendra Choudhary @Gabriela Urquieta @susyjam @Joyce Obi  @Andy
+* Deepdive-NLP meeting #1. There is a Trello board with resources and project ideas set up. I suggested expanding my Slack app as a group project :slightly_smiling_face: Met even more cool people :slightly_smiling_face:  
 
 ## Day 23
 * 100 page ML book by Andriy Burkov, read section 7, kernel regression, multiclass classification.
 * Europeers SG, meeting #1. We introduced ourselves and talked about possible group project ideas.
-@AlexDL @PaulBruce @Martha Taylor @Akash Antony @Helena Barmer @Alison Davey @Aleksey Orekhov.
 
 ## Day 22
 * ...work on my slack app. Hosted web service on Heroku, it works with my frontend.  
@@ -177,20 +186,17 @@ Attached screenshot of the search form. Working to make it available via slash c
 (I really want to have a working slack app tomorrow... but :blush: )
 * 100 page ML book by Andriy Burkov, read section 6: Neural networks and deep learning.
 * Planet-Earth study group - searched for images for the Smog detection dataset. The first dataset I´m creating. :slightly_smiling_face:  
-@Yemi @Alejandro Galindo @Dumeer @Arka @Stark @Droid @George Christopoulos @Sayed Maheen Basheer @Frida @Berenice @Dharmendra Choudhary @Sadmi Bouhafs @Taimur Zahid - Keep being awesome and making this community so great! :penguin_dance: :party-dinosaur:
 
 ## Day 21
-* Book reading club, virtual meeting #3, about the paper ¨Generative adversarial nets¨ by Ian J. Goodfellow. Thanks @Dharmendra Choudhary and @Nicolas Araque for organizing! :slightly_smiling_face:
-And everyone else for participating! Now we need to build some GANs :slightly_smiling_face: @Droid @Sarah Majors @Sayed Maheen Basheer  @Abhishek Tandon  @Sankalp Dayal @Nirupama Singh
+* Book reading club, virtual meeting #3, about the paper ¨Generative adversarial nets¨ by Ian J. Goodfellow. :slightly_smiling_face:
+And everyone else for participating! Now we need to build some GANs :slightly_smiling_face: 
 * 100 page ML book by Andriy Burkov, read section  5 - basic practice (feature engineering, one-hot encoding, binning, confusion matrix etc.)
 * Work on my Slack App project, built a node.js web service, now I need to connect it to my Slack app :slightly_smiling_face:. And first stage of this project will be complete.
 
 ## Day 20
-* Study group Novice-AI virtual meeting #1. Thank you @Stark for organizing, and @ayivima for the Python questions on the channel :) And everyone who attended, it was nice to meet you :)
-@Michael Sheinman @Eman @cibaca @Shudipto Trafder @Rosa Paccotacya @Agata [OR, USA] @Sayed Maheen Basheer @Olivia  @Aarthi Alagammai  @Poornima Venkatraman @SANMITRA 
+* Study group Novice-AI virtual meeting #1. Thank you organizers, and everyone who attended, it was nice to meet you :)
 * _The Hundred Page Machine Learning Book_ by Andriy Burkov, sections: 3 - Fundamental algorithms, 4 - Anatomy of a learning algorithm. This book is really like a vocabulary for ML. Not sure who recommended this to me, but - thank you! :)
 * Work on my slack app (AMA question search), I decided to switch to a node.js web service.
-@Aisha Javed thanks for the encouragement! :)
 
 ## Day 19
 * AMA with Robert Wagner from OpenMined
@@ -220,7 +226,7 @@ Parsed AMA transcript file into an array of questions and answers (1024 in total
   * ReasoNet, [https://arxiv.org/pdf/1609.05284.pdf](https://arxiv.org/pdf/1609.05284.pdf)
 
 ## Day 14
-* Interview for the *Interview_Club* challenge, with @Dumeer
+* Interview for the *Interview_Club* challenge
 * Signed up for the Slack App challenge, started working on my slack app `SPAI chat bot`. Goal is to aggregate questions from AMA sessions and provide a machine learning aided search. First I need to figure how to parse the questions and answers from the transcript file.
 * Going over lesson 6 and PATE analysis again.
 
@@ -239,7 +245,6 @@ Parsed AMA transcript file into an array of questions and answers (1024 in total
 
 ## Day 10
 * Virtual meeting. It was our first one, so some exercises from the course were talked about, and some project ideas.
-@Shivam Raisharma @nabhanpv @Alejandro Galindo @Dharmendra Choudhary @Alejandro Galindo @Tyler Yang @Ricardo Pretelt @Ingus Terbets @Droid @Sadmi Bouhafs @souvikb1812 @Abhishek Tandon
 * Lessons 8.3, 8.4, 8.5 (again. Repetition is good)
 * Read a paper: Robust De-anonymization of Large Sparse Datasets, Arvind Narayanan and Vitaly Shmatikov, 2008 (The Netflix privacy leak paper)
 [https://arxiv.org/pdf/cs/0610105.pdf](https://arxiv.org/pdf/cs/0610105.pdf)
@@ -254,17 +259,13 @@ Parsed AMA transcript file into an array of questions and answers (1024 in total
 ## Day 7
 * Finished lesson 8
 * Reading "The Algorithmic Foundations of Differential Privacy" by Cynthia Dwork, Aaron Roth (sections 3-4)
-Tagging people whose names start with K: @KT @Koya Gabriel
 
 ## Day 6
 * Finished lesson 7, second half of it;
-Tagging people whose names start with Z, @Zaki Indra Sukma @Akramz @Zhilin Wang !
 
 ## Day 5
 * Lesson 7, the first half of it
 * Started reading "The Algorithmic Foundations of Differential Privacy" by Cynthia Dwork, Aaron Roth (sections 1-2)
-Tagging people whose name starts with w, you're invited to the #60daysofudacity initiative!
-@Wadinga Leonard N. @Nícolas Pauli @Ahmad Waly
 
 ## Day 4
 * Finished lessons 5 and 6.
