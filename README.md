@@ -4,12 +4,12 @@ I'm currently participating in #60daysofudacity challenge, and keeping a log her
 
 # #60daysofudacity
 
-## 52
+## Day 52
 * Meetup *AI in space*. Another interesting discussion :)
 * X-rays dataset exploration, added new graphs [https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu](https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu)
 * Reading about PySyft in Android
 
-## 51
+## Day 51
 * Novice-AI meeting #7, we discussed deployment options, getting closer to the finish line :)
 * Reading a paper *CheXNet*, checking the implementation by John Zech
 [https://arxiv.org/pdf/1711.05225.pdf](https://arxiv.org/pdf/1711.05225.pdf)
@@ -17,7 +17,7 @@ I'm currently participating in #60daysofudacity challenge, and keeping a log her
 * Created new X-rays dataset versions for the group project, v4.1 and v4.2
 * X-rays dataset exploration, added new graphs [https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu](https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu)
 
-## 50
+## Day 50
 * In progress - combining X-rays dataset exploration into a single document: [https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu](https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu)
 * Discussion about X-rays model with team members
 * More work on SmogDetection model
