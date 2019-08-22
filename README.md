@@ -4,6 +4,30 @@ I'm currently participating in #60daysofudacity challenge, and keeping a log her
 
 # #60daysofudacity
 
+## Day 57
+* Chexpert x-rays dataset exploration, working in a notebook  [https://stanfordmlgroup.github.io/competitions/chexpert/](https://stanfordmlgroup.github.io/competitions/chexpert/)
+* Preparing a subset of this dataset for ML. Changed folder/file structure.
+* Read Chexpert dataset review by Luke Oakden-Rayner:  [https://lukeoakdenrayner.wordpress.com/2019/02/25/half-a-million-x-rays-first-impressions-of-the-stanford-and-mit-chest-x-ray-datasets/](https://lukeoakdenrayner.wordpress.com/2019/02/25/half-a-million-x-rays-first-impressions-of-the-stanford-and-mit-chest-x-ray-datasets/)
+* Read a paper: MIMIC-CXR: A large publically available database of labeled chest radiographs [https://arxiv.org/pdf/1901.07042.pdf](https://arxiv.org/pdf/1901.07042.pdf)
+
+## Day 56
+I wasn't sure what to do today, as the showcase projects were submitted yesterday. Someone told me about Chexpert dataset :)
+* Notebook for Chexpert x-rays dataset exploration. It is a dataset with 224,316 x-rays from Stanford ML group.
+* Read a paper: CheXpert: _A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison_  [https://arxiv.org/abs/1901.07031](https://arxiv.org/abs/1901.07031)
+
+## Day 55
+* Smog detection project, work on project submission
+* Started working on SimpleGAN, a personal project, goal - the simplest and easiest to understand GAN implementation possible. :)
+
+## Day 54
+* Smog detection project, work on readme for the showcase
+* NLP abstract summarization on Amazon food review dataset
+
+## Day 53
+* Novice-AI meeting #8, finalizing showcase project
+* X-rays showcase project, built a simple web UI
+* Reading *Deep learning with Python*, section 5, Computer vision
+
 ## Day 52
 * Meetup *AI in space*. Another interesting discussion :)
 * X-rays dataset exploration, added new graphs [https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu](https://colab.research.google.com/drive/1nub56-UfvlovgWP7oSC5850HdNIbOFQu)
