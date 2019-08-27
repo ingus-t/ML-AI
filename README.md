@@ -12,24 +12,22 @@ I'm currently participating in #60daysofudacity challenge, and keeping a log her
 * I got recognized for some of my posts where I shared personal experience.
 
 ## Day 60
-* Novice-AI webinar Deep learning with Pytorch by @Pooja Vinod @Labiba @K.S. Thank you for the presentation! :slightly_smiling_face: :ddance:
+* Novice-AI webinar `Deep learning with Pytorch`. Thank you for the presentation! :slightly_smiling_face: :ddance:
 I had final meetings in 2 groups I have been a part of for a long time. I hope to see you around :slightly_smiling_face:
 * Europeers meeting #5. We talked about different ML courses and scholarships, and how to stay in touch after this course ends :slightly_smiling_face:
-@PaulBruce, @Helena Barmer, @Samuela Anastasi, @Akash Antony, @Alison Davey,@Elena Kutanov, @Ingus Terbets, @Susanne Brockmann,
 * NLP meeting #6. We talked about our showcase projects and future plans with NLP.
-@SusanW @Aniket Mitra @Dharmendra Choudhary @Mahedi @Krishna Chari
 * Chexpert and NIH x-rays dataset exploration... I just keep coming up with new ideas to create a better training dataset. Why improve the model when you can improve the dataset... :upside_down_face: (removing child x-rays, images with large black bars, and with low contrast)
 
 ## Day 59
-* Attended webinar *Data/Privacy Leaks* organized by @Helena Barmer @Jess @Anju Mercian
-* Tested mish activation by @Diganta: [https://github.com/digantamisra98/Mish](https://github.com/digantamisra98/Mish)
+* Attended webinar *Data/Privacy Leaks*.
+* Tested mish activation: [https://github.com/digantamisra98/Mish](https://github.com/digantamisra98/Mish)
 * fast.ai lesson #4 Tabular data; Collaborative filtering; Embeddings. Went back to fast.ai course after a long break :)
 * Chexpert x-rays dataset exploration
 
 ## Day 58
 * Novice-AI meeting #9. We talked about what to do now - after the showcase project has been submitted. We decided to go through the SPAI course and present notes about each lesson.
 * Chexpert x-rays dataset exploration, working in a notebook  https://stanfordmlgroup.github.io/competitions/chexpert/ 
-* Tested katana tool (by @Stark), for PyTorch model deployment. https://github.com/ashishbairwa/Katana
+* Tested katana tool, for PyTorch model deployment. https://github.com/ashishbairwa/Katana
 
 ## Day 57
 * Chexpert x-rays dataset exploration, working in a notebook  [https://stanfordmlgroup.github.io/competitions/chexpert/](https://stanfordmlgroup.github.io/competitions/chexpert/)
