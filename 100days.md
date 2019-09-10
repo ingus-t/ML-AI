@@ -38,7 +38,10 @@ What I plan to do during these 100 days (things will be added/removed as I go):
 # Notes for the challenge
 
 Day 1, 2019.09.10  
-• Book **Learn Python the Hard Way**, solved problems 21 - 30  
+• Book **Learn Python the Hard Way**, exercises 21 - 30  
 • **mlcourse.ai**: Video #0 - Intro, Video #1 - Pandas & Data Analysis
 
 Day 2,  2019.09.11  
+• Book **Learn Python the Hard Way**, exercises 31 - 40  
+• **mlcourse.ai**: quiz #1  
+• more work on this plan
