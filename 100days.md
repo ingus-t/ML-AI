@@ -2,6 +2,8 @@
 
 Rules:  
 • Mix of theory and practical projects  
+• Apply all new theoretical concepts practically (simple scripts/notebooks).
+• Repetition sessions.
 • Strong attention to fundamentals. Don't go too fast, pay attention to details.  
 • Don't burn out
 
@@ -41,7 +43,7 @@ Day 1, 2019.09.10
 • Book **Learn Python the Hard Way**, exercises 21 - 30  
 • **mlcourse.ai**: Video #0 - Intro, Video #1 - Pandas & Data Analysis
 
-Day 2,  2019.09.11  
+Day 2,  2019.09.11 (what I plan to do)  
 • Book **Learn Python the Hard Way**, exercises 31 - 40  
 • **mlcourse.ai**: quiz #1  
 • more work on this plan
