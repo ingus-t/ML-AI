@@ -2,10 +2,10 @@
 
 Rules:  
 • Mix of theory and practical projects  
-• Focus on fundamentals.  
+• Strong attention to fundamentals. Don't go too fast, pay attention to details.  
 • Don't burn out
 
-What I plan to do during these 100 days:  
+What I plan to do during these 100 days (things will be added/removed as I go):  
 
 ---
 ## Python:  
