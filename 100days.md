@@ -18,6 +18,7 @@ What I plan to do during these 100 days (things will be added/removed as I go):
 • Data mining (beautiful soup) - practice getting ugly data, and all the steps until it can be passed to PyTorch   
 • Flask  
 • Pandas/Numpy/Matplotlib  
+• Do exercises on Hackerrank or some similar platform (pick one)
 
 ## Algorithms and Data Structures:  
 • **Algorithms: Notes for Professionals**,  https://books.goalkicker.com/AlgorithmsBook/  
@@ -26,6 +27,12 @@ What I plan to do during these 100 days (things will be added/removed as I go):
 • [mlcourse.ai](https://www.mlcourse.ai)  
 • Finish **Intro to DL with PyTorch** from Udacity  
 • **Deep Learning with Python**, Francois Chollet  
+• Coursera DL specialization (5 courses:)
+  • Neural Networks and Deep Learning
+  • Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+  • Structuring Machine Learning Projects
+  • Convolutional Neural Networks
+  • Sequence Models
 
 ## Math/Statistics
 • Linear algebra/calculus, not sure about resources yet   
@@ -33,7 +40,7 @@ What I plan to do during these 100 days (things will be added/removed as I go):
 ## Practical project ideas:  
 • Hygeia  
 • World Pollution Database?  
-• Hnefatafl game?  
+• Hnefatafl game (it's like Viking chess/checkers)?  
 • and a ton of smaller projects/Jupyter notebooks  
 
 ---
