@@ -17,8 +17,9 @@ What I plan to do during these 100 days (things will be added/removed as I go):
 * **Python Notes for Professionals**, https://books.goalkicker.com/PythonBook/  
 * Data mining (beautiful soup) - practice getting ugly data, and all the steps until it can be passed to PyTorch   
 * Flask  
-* Pandas/Numpy/Matplotlib  
+* Pandas/Numpy/Matplotlib (seaborn)
 * Do exercises on Hackerrank or some similar platform (pick one)
+* Pick one Editor/IDE for Python and become good at it (VS code? Or one of PyCharm/Atom/Sublime Text)
 
 ## Algorithms and Data Structures:  
 * **Algorithms: Notes for Professionals**,  https://books.goalkicker.com/AlgorithmsBook/  
@@ -51,6 +52,10 @@ Day 1, 2019.09.10
 * **mlcourse.ai**: Video #0 - Intro, Video #1 - Pandas & Data Analysis
 
 Day 2,  2019.09.11 (what I plan to do)  
-* Book **Learn Python the Hard Way**, exercises 31 - 40  
-* **mlcourse.ai**: quiz #1  
+* mlcourse.ai: notebook #1
+* mlcourse.ai: quiz #1
+* Hygeia meeting
+* Book **Learn Python the Hard Way**, exercises 31 - 40
 * more work on this plan
+
+Day 3,  2019.09.12
