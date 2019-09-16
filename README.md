@@ -3,7 +3,8 @@
 ## About me
 Hello! I am a programmer from Latvia, currently I am making a transition to machine learning/artificial intelligence, taking online courses, reading books, building personal projects and doing anything that gets me closer to this goal.
 ## Interests
-Developing NN models for X-ray analysis, working on [NIH](https://www.kaggle.com/nih-chest-xrays/data) and [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) datasets.
+Developing NN models for X-ray analysis, working on [NIH](https://www.kaggle.com/nih-chest-xrays/data) and [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) datasets.  
+I've started a 100 days of studying challenge, my notes are here: <a href='100days.md'>100days.md</a>.
 
 ## Secure and Private AI Challenge (SPAIC) by Facebook/Udacity in 2019
 
