@@ -1,4 +1,3 @@
-
 # Ingus Terbets
 
 ## About me
@@ -16,10 +15,10 @@ Out of 14000 applicants 5000 were picked for stage 1. For stage 2, 300 were pick
 > This course introduces three cutting-edge technologies for privacy-preserving AI: *Federated Learning*, *Differential Privacy*, and *Encrypted Computation*. It teaches how to use the newest privacy-preserving technologies, such as OpenMined's PySyft. PySyft extends Deep Learning tools such as PyTorch—with the cryptographic and distributed technologies necessary to safely and securely train AI models on distributed private data.
 
 Team projects I worked on:  
-[Disease detection using Chest X-rays](https://github.com/aksht94/UdacityOpenSource/tree/master/Disease-detection-using-chest-xrays).
-[Smog Detection](https://github.com/aksht94/UdacityOpenSource/tree/master/SmogDetection)   was ranked #2 out of 141 showcase projects.
+[Disease detection using Chest X-rays](https://github.com/aksht94/UdacityOpenSource/tree/master/Disease-detection-using-chest-xrays).  
+[Smog Detection](https://github.com/aksht94/UdacityOpenSource/tree/master/SmogDetection) was ranked #2 out of 141 showcase projects.  
 I also won the Slack App challenge with my app [AMAdillo](https://github.com/ingus-t/AMAdillo) - it is a Q&A app that allows looks up similar questions in a database, based on fuzzy string matching.
 
 ## Contacts:
-* [LinkedIn](https://www.linkedin.com/in/ingus-terbets/) - for more detailed information about my work experience and education.
-* [GitHub](https://github.com/ingus-t) - not much here currently.
+* [LinkedIn](https://www.linkedin.com/in/ingus-terbets/) - more detailed information about my skills, work experience and education.
+* [GitHub](https://github.com/ingus-t) - not much here currently, working on it :)
