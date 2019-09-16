@@ -72,10 +72,9 @@ Day 5, 2019.09.14
 * Revisited Python basics: OOP
 
 Day 6, 2019.09.15
-* Applied to become a credentialized [physionet.org](https://physionet.org) user, and have access to MIMIC X-ray dataset.
-* expand the text RPG game project
+* expanded the Python RPG game project
 * More work on this plan
-* Hygeia - data wrangling (notebook)
 
 Day 7, 2019.09.16
-
+* Hygeia - data wrangling (notebook)
+* Applied to become a credentialized [physionet.org](https://physionet.org) user, and have access to MIMIC X-ray dataset.
