@@ -20,6 +20,7 @@ What I plan to do during these 100 days (things will be added/removed as I go):
 * Pandas/Numpy/Matplotlib (seaborn)
 * Do exercises on Hackerrank or some similar platform (pick one)
 * Pick one Editor/IDE for Python and become good at it (VS code? Or one of PyCharm/Atom/Sublime Text)
+* A bit of DevOps as well...
 
 ## Algorithms and Data Structures:  
 * **Algorithms: Notes for Professionals**,  https://books.goalkicker.com/AlgorithmsBook/  
@@ -51,11 +52,30 @@ Day 1, 2019.09.10
 * Book **Learn Python the Hard Way**, exercises 21 - 30  
 * **mlcourse.ai**: Video #0 - Intro, Video #1 - Pandas & Data Analysis
 
-Day 2,  2019.09.11 (what I plan to do)  
-* mlcourse.ai: notebook #1
-* mlcourse.ai: quiz #1
+Day 2, 2019.09.11 
+* **mlcourse.ai**: notebook #1
 * Hygeia meeting
-* Book **Learn Python the Hard Way**, exercises 31 - 40
-* more work on this plan
+* **Data or Specimens Only Research** course, modules 1 - 5 on citiprogram.org.
 
-Day 3,  2019.09.12
+Day 3, 2019.09.12
+* **Data or Specimens Only Research** course, modules 6 - 9 on citiprogram.org.  
+* mlcourse.ai: quiz #1
+* Book **Learn Python the Hard Way**, exercise 31
+
+Day 4, 2019.09.13
+* Book **Learn Python the Hard Way**, exercises 32 - 39
+* made a small Text RPG (steps are loaded from an array, so it's simple to extend. Might return to this later)
+* Revisited Python basics: all keywords, data types
+
+Day 5, 2019.09.14
+* Book **Learn Python the Hard Way**, exercise 40
+* Revisited Python basics: OOP
+
+Day 6, 2019.09.15
+* Applied to become a credentialized [physionet.org](https://physionet.org) user, and have access to MIMIC X-ray dataset.
+* expand the text RPG game project
+* More work on this plan
+* Hygeia - data wrangling (notebook)
+
+Day 7, 2019.09.16
+
