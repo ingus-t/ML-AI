@@ -15,12 +15,18 @@ What I plan to do during these 100 days (things will be added/removed as I go):
 * **Learn More Python 3 the Hard Way**, Zed A. Shaw  
 * **Coffee Break Python**, Christian Mayer  
 * **Python Notes for Professionals**, https://books.goalkicker.com/PythonBook/  
+* [Intermediate Python book](https://book.pythontips.com/en/latest/)
 * Data mining (beautiful soup) - practice getting ugly data, and all the steps until it can be passed to PyTorch   
 * Flask  
 * Pandas/Numpy/Matplotlib (seaborn)
 * Do exercises on Hackerrank or some similar platform (pick one)
 * Pick one Editor/IDE for Python and become good at it (VS code? Or one of PyCharm/Atom/Sublime Text)
 * A bit of DevOps as well...
+* Kivy
+* [PEP8 standard](https://www.python.org/dev/peps/pep-0008/)
+* [Google Python Style Guide](http://google.github.io/styleguide/pyguide.html)
+* [yapf python formatter](https://github.com/google/yapf/)
+* Testing - pick nose2 or pytest (read about Python doc tests), and use in personal projects
 
 ## Algorithms and Data Structures:  
 * **Algorithms: Notes for Professionals**,  https://books.goalkicker.com/AlgorithmsBook/  
@@ -73,8 +79,20 @@ Day 5, 2019.09.14
 
 Day 6, 2019.09.15
 * expanded the Python RPG game project
-* More work on this plan
 
 Day 7, 2019.09.16
-* Hygeia - data wrangling (notebook)
 * Applied to become a credentialized [physionet.org](https://physionet.org) user, and have access to MIMIC X-ray dataset.
+
+Day 8, 2019.09.17
+* OpenMined AMA with Andrew Trask
+* Book **Learn Python the Hard Way**, exercise 41 - 43
+
+Day 9, 2019.09.18
+* Book **Learn Python the Hard Way**, exercise 44 - 47 (Inheritance vs Composition)
+
+Day 10, 2019.09.19
+* Book **Learn Python the Hard Way**, exercises 48
+* Python Lists, Tuples, Dictionaries
+* Nose for testing
+
+Day 11, 2019.09.20
