@@ -1,5 +1,5 @@
 # 100 days of ML  
-<a href="plan.MD">plan.MD</a>  
+<a href="plan.md">plan.md</a>  
 
 Notes for the challenge  
 

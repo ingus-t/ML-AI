@@ -1,5 +1,5 @@
 # 100 days of ML  
-<a href="100days.MD">plan.MD</a>  
+<a href="100days.md">plan.md</a>  
 
 Rules:  
 * Mix of theory and practical projects  
