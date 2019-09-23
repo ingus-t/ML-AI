@@ -1,58 +1,7 @@
 # 100 days of ML  
+<a href="plan.MD">plan.MD</a>  
 
-Rules:  
-* Mix of theory and practical projects  
-* Apply all new theoretical concepts practically (simple scripts/notebooks).
-* Repetition sessions.
-* Strong attention to fundamentals. Don't go too fast, pay attention to details.  
-* Don't burn out
-
-What I plan to do during these 100 days (things will be added/removed as I go):  
-
----
-## Python:  
-* **Learn Python the Hard Way**, Zed A. Shaw  
-* **Learn More Python 3 the Hard Way**, Zed A. Shaw  
-* **Coffee Break Python**, Christian Mayer  
-* **Python Notes for Professionals**, https://books.goalkicker.com/PythonBook/  
-* [Intermediate Python book](https://book.pythontips.com/en/latest/)
-* Data mining (beautiful soup) - practice getting ugly data, and all the steps until it can be passed to PyTorch   
-* Flask  
-* Pandas/Numpy/Matplotlib (seaborn)
-* Do exercises on Hackerrank or some similar platform (pick one)
-* Pick one Editor/IDE for Python and become good at it (VS code? Or one of PyCharm/Atom/Sublime Text)
-* A bit of DevOps as well...
-* Kivy
-* [PEP8 standard](https://www.python.org/dev/peps/pep-0008/)
-* [Google Python Style Guide](http://google.github.io/styleguide/pyguide.html)
-* [yapf python formatter](https://github.com/google/yapf/)
-* Testing - pick nose2 or pytest (read about Python doc tests), and use in personal projects
-
-## Algorithms and Data Structures:  
-* **Algorithms: Notes for Professionals**,  https://books.goalkicker.com/AlgorithmsBook/  
-
-## ML/DL  
-* [mlcourse.ai](https://www.mlcourse.ai)  
-* Finish **Intro to DL with PyTorch** from Udacity  
-* **Deep Learning with Python**, Francois Chollet  
-* Coursera DL specialization (5 courses):  
-  * Neural Networks and Deep Learning  
-  * Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization  
-  * Structuring Machine Learning Projects  
-  * Convolutional Neural Networks  
-  * Sequence Models  
-
-## Math/Statistics
-* Linear algebra/calculus, not sure about resources yet   
-
-## Practical project ideas:  
-* Hygeia  
-* World Pollution Database?  
-* Hnefatafl game (it's like Viking chess/checkers)?  
-* and a ton of smaller projects/Jupyter notebooks  
-
----
-# Notes for the challenge
+Notes for the challenge  
 
 Day 1, 2019.09.10  
 * Book **Learn Python the Hard Way**, exercises 21 - 30  
@@ -91,8 +40,23 @@ Day 9, 2019.09.18
 * Book **Learn Python the Hard Way**, exercise 44 - 47 (Inheritance vs Composition)
 
 Day 10, 2019.09.19
-* Book **Learn Python the Hard Way**, exercises 48
+* Book **Learn Python the Hard Way**, exercise 48
 * Python Lists, Tuples, Dictionaries
 * Nose for testing
 
 Day 11, 2019.09.20
+* Book **Learn Python the Hard Way**, exercises 49 - 51
+* Flask basics
+
+Day 12, 2019.09.21 (no internet day :) )
+* Book **Learn Python the Hard Way**, exercise 52
+* Flask basics
+
+Day 13, 2019.09.22 (no internet day :) )
+* Book **Learn Python the Hard Way**, exercise 52
+* Book **Coffee Break Python**, puzzles 1 - 23 (really simple, but still learning interesting details :) )
+* Python basics - 
+
+Day 14, 2019.09.23
+* mlcourse.ai: Lecture 3: Decision trees. Theory
+* mlcourse.ai: Lecture 3: Decision trees. Practical part
