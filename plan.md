@@ -1,5 +1,5 @@
 # 100 days of ML  
-<a href="100days.md">plan.md</a>  
+<a href="100days.md">100days.md</a>  
 
 Rules:  
 * Mix of theory and practical projects  
@@ -30,6 +30,7 @@ What I plan to do during these 100 days (things will be added/removed as I go):
 * Testing - pick nose2 or pytest (read about Python doc tests), and use in personal projects
 * Read more source code, learn, examine
 * get used to terminal/commandline help commands for python and different libraries
+* Implement data structures in Python from scratch
 
 ## Algorithms and Data Structures:  
 * **Algorithms: Notes for Professionals**,  https://books.goalkicker.com/AlgorithmsBook/  

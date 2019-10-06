@@ -14,7 +14,7 @@ Day 2, 2019.09.11
 
 Day 3, 2019.09.12
 * **Data or Specimens Only Research** course, modules 6 - 9 on citiprogram.org.  
-* mlcourse.ai: quiz #1
+* mlcourse.ai: assignment #1
 * Book **Learn Python the Hard Way**, exercise 31
 
 Day 4, 2019.09.13
@@ -60,3 +60,53 @@ Day 13, 2019.09.22 (no internet day :) )
 Day 14, 2019.09.23
 * mlcourse.ai: Lecture 3: Decision trees. Theory
 * mlcourse.ai: Lecture 3: Decision trees. Practical part
+
+Day 15, 2019.09.24
+* DLND: Module 1, the basics
+
+Day 16, 2019.09.25
+* DLND: Module 1, Lesson 6: Style transfer, DeepTraffic
+* Tensorflow GAN experiment
+
+Day 17, 2019.09.26
+* mlcourse.ai: Lecture 5.1. Ensembles and Random Forest. Theory
+* mlcourse.ai: quiz #1
+
+Day 18, 2019.09.27
+* mlcourse.ai: Lecture 5.2. Classification metrics. Theory
+* mlcourse.ai: quiz #1 (more research on the more confusing questions)
+* job interview #1, stage #1
+
+Day 19, 2019.09.28
+* mlcourse.ai live session 1: 9:00 https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg/live
+* DLND: Meeting with mentor #1: 20:00 - 20:15
+* DLND: watching orientation session, https://sites.google.com/udacity.com/secureprivateai-phase-2/home
+* Algorithms in Python, interview preparation
+
+Day 20, 2019.09.29
+* job interview #1, stage #2
+* DNLD: finished topic 1, lesson 7
+* Python 100 interview questions: https://www.edureka.co/blog/interview-questions/python-interview-questions/
+
+2019.09.30
+2019.10.01
+
+Day 21, 2019.10.02
+* mlcourse.ai: Lecture 5.3. Business task: predicting paying users. Practice
+
+Day 22, 2019.10.03
+* mlcourse.ai, Topic 10. Part 1. Gradient boosting basics
+* mlcourse.ai, Assignment - Classification and regression trees
+
+Day 23, 2019.10.04
+* mlcourse.ai, Topic 10. Part 2. Key ideas behind Xgboost, LightGBM, and CatBoost. Practice with LightGBM
+* Trying to beat baseline in a kaggle competition: https://www.kaggle.com/c/flight-delays-fall-2018/
+* learning Catboost
+
+Day 24, 2019.10.05
+* Trying to beat baseline in a kaggle competition: https://www.kaggle.com/c/flight-delays-fall-2018/
+* learning Catboost
+
+Day 25, 2019.10.06
+* 9:30 - meeting with DLND mentor #2
+* mlcourse.ai - deadline for 2 assignments
