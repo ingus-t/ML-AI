@@ -1,10 +1,9 @@
-# Ingus Terbets
-
 ## About me
 Hello! I am a programmer from Latvia, currently I am making a transition to machine learning/artificial intelligence, taking online courses, reading books, building personal projects and doing anything that gets me closer to this goal.
 ### Education
 * Master's degree in IT, University of Liepaja, graduated in 2018.  
-* Udacity Deep Learning Nanodegree - currently enrolled.
+* Udacity Deep Learning Nanodegree - graduated in 2020
+* Azure Cloud Scholarship on Udacity - currently enrolled.
 
 ### Interests
 Developing NN models for X-ray analysis, working on [NIH](https://www.kaggle.com/nih-chest-xrays/data) and [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) datasets.  
